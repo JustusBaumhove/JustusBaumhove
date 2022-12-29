@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working as a fullstack dev in Start-up from Frankfurt<br>🌱 I’m currently learning Vue.js and Nuxt3<br>🎓 I study business information systems at the university of Münster
+🔭 I’m working as a fullstack dev in a start-up from Frankfurt<br>🌱 I’m currently learning Vue.js and Nuxt3<br>🎓 I study business information systems at the university of Münster
 
 
 ## 🌐 Socials:
